@@ -14,4 +14,4 @@ Lista de Atividades já feitas:
 
 ## Tutoriais
 
- - [Instalação do Scoop](Tutoriais/Instalação%20do%20Django/)
+ - [Instalação do Django](Tutoriais/Instalação%20do%20Django/)
