@@ -2,6 +2,19 @@
 
 O Django é um framework web Python de alto nível que incentiva o desenvolvimento rápido e o design limpo e pragmático.
 
+## Instalações
+
+ - [Instalação automática](#instalção-automática)
+ - [Instalação manual](#instalação-manual)
+
+## Instalção automática
+
+Para fazer a instalação assistida do django, pode ser utilizada o arquivo 
+
+<a href="" download>Baixar script</a>
+
+## Instalação manual
+
 Para a instalação do Django iremos primeiro instalar o `python` para acesso ao comando `pip` e em seguida utilizaremos o mesmo para instalação do `django`.
 
 ## Instalando o Python
