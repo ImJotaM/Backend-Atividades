@@ -9,11 +9,17 @@ O Django é um framework web Python de alto nível que incentiva o desenvolvimen
 
 ## Instalação automática
 
-Para fazer a instalação automática do django, utilize o [DjangoInstaller](InstallDjango.exe).
+Para fazer a instalação automática do django, utilize o [DjangoInstaller](#djangoinstaller).
+
+
+| Arquivos | Fonte |
+|-------|--------|
+| DjangoInstaller.exe | [Download](https://github.com/ImJotaM/Backend-Atividades/raw/refs/heads/main/Tutoriais/Instala%C3%A7%C3%A3o%20do%20Django/InstallDjango.exe) |
+| InstallDjango.py | [Conferir](InstallDjango.py) |
 
 ### DjangoInstaller
 
-DjangoInstaller é um programa feito em python para instalar o framework Django de maneira simples e rápida. O software utiliza do gerenciador de pacotes Scoop para instalar o Python na máquina do usuário (caso o mesmo não o possua) e instala o Django aravés do `pip`. [Confira o código fonte aqui](InstallDjango.py).
+DjangoInstaller é um programa feito em python para instalar o framework Django de maneira simples e rápida. O software utiliza do gerenciador de pacotes Scoop para instalar o Python na máquina do usuário (caso o mesmo não o possua) e instala o Django aravés do `pip`.
 
 ![alt text](../../imgs/Tutorial%20-%20Instalação%20do%20Django/image.png)
 
