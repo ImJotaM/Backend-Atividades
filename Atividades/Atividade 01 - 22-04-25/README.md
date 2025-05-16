@@ -97,15 +97,15 @@ Utilizando o Dbeaver, vamos fazer a conexão com o banco de dados.
 
 Banco de Dados -> Nova conexão:
 
-![alt text](../imgs/Atividade%2001/image-1.png)
+![alt text](../../imgs/Atividade%2001/image-1.png)
 
 Selecionar o SQLite como banco de dados:
 
-![alt text](../imgs/Atividade%2001/image-2.png)
+![alt text](../../imgs/Atividade%2001/image-2.png)
 
 Selecionar o caminho para o banco de dados `db.sqlite3`.
 
-![alt text](../imgs/Atividade%2001/image-3.png)
+![alt text](../../imgs/Atividade%2001/image-3.png)
 
 ## Inserindo dados fictícios nas tabelas usando comandos SQL.
 
@@ -113,7 +113,7 @@ Para inserir dados fictícios nas tabelas, utilizaremos um script SQL.
 
 Editor SQL -> Novo script SQL
 
-![alt text](../imgs/Atividade%2001/image-4.png)
+![alt text](../../imgs/Atividade%2001/image-4.png)
 
 Agora com o script podemos adicionar os novos dados à tabela.
 
@@ -134,12 +134,12 @@ Para verificar a estrutura, basta clicar na tabela dentro do Navegador do banco 
 
 Tabela Usuario
 
-![alt text](../imgs/Atividade%2001/image-5.png)
+![alt text](../../imgs/Atividade%2001/image-5.png)
 
 Tabela Vendedor
 
-![alt text](../imgs/Atividade%2001/image-6.png)
+![alt text](../../imgs/Atividade%2001/image-6.png)
 
 Tabela Produto
 
-![alt text](../imgs/Atividade%2001/image-7.png)
+![alt text](../../imgs/Atividade%2001/image-7.png)

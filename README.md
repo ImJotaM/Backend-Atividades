@@ -4,13 +4,13 @@
 
 ## Atividades mais recentes
 
-Atividade mais recente disponível: [Atividade 01](Atividade%2001%20-%2022-04-25/).
+Atividade mais recente disponível: [Atividade 01](Atividades/Atividade%2001%20-%2022-04-25/).
 
 ## Lista de Atividades
 
 Lista de Atividades já feitas:
 
-- [Atividade 01](Atividade%2001%20-%2022-04-25/).
+- [Atividade 01](Atividades/Atividade%2001%20-%2022-04-25/).
 
 ## Tutoriais
 

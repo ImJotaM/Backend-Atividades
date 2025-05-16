@@ -14,7 +14,7 @@ Para fazer a instalação automática do django, utilize o [DjangoInstaller](#dj
 
 | Arquivos | Fonte |
 |-------|--------|
-| DjangoInstaller.exe | [Download](https://github.com/ImJotaM/Backend-Atividades/raw/refs/heads/main/Tutoriais/Instala%C3%A7%C3%A3o%20do%20Django/InstallDjango.exe) |
+| DjangoInstaller.exe | [Download](https://github.com/ImJotaM/Backend-Atividades/raw/refs/heads/main/Tutoriais/Instala%C3%A7%C3%A3o%20do%20Django/InstallDjango.py) |
 | InstallDjango.py | [Conferir](InstallDjango.py) |
 
 ### DjangoInstaller
