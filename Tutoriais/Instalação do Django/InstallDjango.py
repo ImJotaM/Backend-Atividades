@@ -33,8 +33,11 @@ def get_django_version():
         return None
 
 def install_django():
+    install_command = """
+    \"pip install django\"
+    """
     try:
-        result = subprocess.run(["pip", "install", "django"], capture_output=True, text=True)
+        result = subprocess.run(["powershell", install_command], capture_output=True, text=True)
         return result
     except subprocess.CalledProcessError as e:
         print(Fore.RED + f"\n❌ Falha crítica: {e}")
@@ -55,8 +58,11 @@ def get_python_version():
         return None
 
 def install_python():
+    install_command = """
+    \"scoop install python\"
+    """
     try:
-        result = subprocess.run(["scoop", "install", "python"], capture_output=True, text=True)
+        result = subprocess.run(["powershell", install_command], capture_output=True, text=True)
         return result
     except subprocess.CalledProcessError as e:
         print(Fore.RED + f"\n❌ Falha crítica: {e}")
@@ -67,11 +73,11 @@ def is_scoop_installed():
 
 def install_scoop():
     install_command = """
-    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-    Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+    \"Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+    Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression\"
     """
     try:
-        result = subprocess.run(["powershell","-Command", install_command], check=True)
+        result = subprocess.run(["powershell","-command", install_command], check=True)
         return result
     except subprocess.CalledProcessError as e:
         print(Fore.RED + f"\n❌ Falha crítica: {e}")
