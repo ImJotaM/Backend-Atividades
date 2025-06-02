@@ -261,4 +261,4 @@ porcentage = get_value("Insira a porcentagem de desconto da mercadoria (%): ")
 print(f"O novo preço após o desconto de {porcentage}% é: {price - price * (porcentage / 100)}")
 ```
 
-Fonte: [exercício 3.10.py](exercícios/exercício%203.11.py)
+Fonte: [exercício 3.11.py](exercícios/exercício%203.11.py)
