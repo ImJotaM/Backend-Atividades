@@ -1,4 +1,4 @@
-# Atividade 01 - 22-04-25
+# Atividade 03 - Variáveis e Entrada de Dados
 
 ## Exercícios
 
@@ -15,7 +15,8 @@
 
 ### Exercício 3.1
 
-![alt text](../../imgs/Atividade%2002/image-1.png)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/image-1.png)
 
 #### Resolução
 
@@ -30,7 +31,7 @@
 
 ### Exercício 3.2
 
-![alt text](../../imgs/Atividade%2002/image-2.png)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/image-2.png)
 
 #### Resolução
 
@@ -49,7 +50,7 @@
 
 ### Exercício 3.3
 
-![alt text](../../imgs/Atividade%2002/image-3.png)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/image-3.png)
 
 #### Resolução
 
@@ -71,7 +72,7 @@
 
 ### Exercício 3.5
 
-![alt text](../../imgs/Atividade%2002/image-4.png)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/image-4.png)
 
 #### Resolução
 
@@ -83,7 +84,7 @@
 
 ### Exercício 3.6
 
-![alt text](../../imgs/Atividade%2002/image-5.png)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/image-5.png)
 
 #### Resolução
 
@@ -120,7 +121,7 @@ Fonte: [exercício 3.6.py](exercícios/exercício%203.6.py)
 
 ### Exercício 3.7
 
-![alt text](../../imgs/Atividade%2002/image-6.png)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/image-6.png)
 
 #### Resolução
 
@@ -145,7 +146,7 @@ Fonte: [exercício 3.7.py](exercícios/exercício%203.7.py)
 
 ### Exercício 3.8
 
-![alt text](../../imgs/Atividade%2002/image-7.png)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/image-7.png)
 
 #### Resolução
 
@@ -173,7 +174,7 @@ Fonte: [exercício 3.8.py](exercícios/exercício%203.8.py)
 
 ### Exercício 3.9
 
-![alt text](../../imgs/Atividade%2002/image-8.png)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/image-8.png)
 
 #### Resolução
 
@@ -213,7 +214,7 @@ Fonte: [exercício 3.9.py](exercícios/exercício%203.9.py)
 
 ### Exercício 3.10
 
-![alt text](../../imgs/Atividade%2002/image-9.png)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/image-9.png)
 
 #### Resolução
 
@@ -239,7 +240,7 @@ Fonte: [exercício 3.10.py](exercícios/exercício%203.10.py)
 
 ### Exercício 3.11
 
-![alt text](../../imgs/Atividade%2002/image-10.png)
+![alt text](../../imgs/Atividade%2003%20-%20Variáveis%20e%20Entrada%20de%20Dados/image-10.png)
 
 #### Resolução
 

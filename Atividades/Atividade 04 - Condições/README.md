@@ -7,8 +7,8 @@
  - [Exercício 4.10](#exercício-410)
 
 ### Exercício 4.8
-
-![alt text](../../imgs/Atividade%2003/image-1.png)
+![alt text](../../imgs/Atividade%2004%20-%20Condições/)
+![alt text](../../imgs/Atividade%2004%20-%20Condições/image-1.png)
 
 #### Resolução
 
@@ -50,7 +50,7 @@ Fonte: [exercício 4.8.py](exercícios/exercício%204.8.py)
 
 ### Exercício 4.9
 
-![alt text](../../imgs/Atividade%2003/image-2.png)
+![alt text](../../imgs/Atividade%2004%20-%20Condições/image-2.png)
 
 #### Resolução
 
@@ -87,7 +87,7 @@ Fonte: [exercício 4.9.py](exercícios/exercício%204.9.py)
 
 ### Exercício 4.10
 
-![alt text](../../imgs/Atividade%2003/image-3.png)
+![alt text](../../imgs/Atividade%2004%20-%20Condições/image-3.png)
 
 #### Resolução
 
