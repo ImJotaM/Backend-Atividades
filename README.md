@@ -2,7 +2,7 @@
 
 ## Lista de Atividades
 
-Atividade mais recente disponível: [Atividade 06 - Listas](Atividades/Atividade%2006%20-%20Listas/).
+Atividade mais recente disponível: [Atividade 07 - Strings](Atividades/Atividade%2007%20-%20Strings/).
 
 Lista de Atividades já feitas:
 
@@ -11,4 +11,5 @@ Lista de Atividades já feitas:
 - [Atividade 04 - Condições](Atividades/Atividade%2004%20-%20Condições/).
 - [Atividade 05 - Repetições](Atividades/Atividade%2005%20-%20Repetições/).
 - [Atividade 06 - Listas](Atividades/Atividade%2006%20-%20Listas/)
+- [Atividade 07 - Strings](Atividades/Atividade%2007%20-%20Strings/)
 - [Atividade 09 - Arquivos](Atividades/Atividade%2009%20-%20Arquivos/).
